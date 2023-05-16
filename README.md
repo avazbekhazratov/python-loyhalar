@@ -1,1 +1,1 @@
-# python-loyhalar
+Ushbu repositoryda mening loyihalarim bor
